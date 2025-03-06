@@ -4,8 +4,6 @@ Hi 👋 My name is Michael Garifullin
 Technical leader
 ----------------
 
-I’m fluent with PHP including the modern changes. SQL databases optimisation is a very usual thing for me. I have no friction to participate in improvements related to the frontend parts of project written in javascript. I’m familiar with Vue.js and React. I used MongoDB and Laravel for my pet projects but MySQL and Symfony is still my main tools for achieving goals. Rich experience of testing code in functional and unit way on a different levels. Good understanding of service architecture in a modern way (async, queues, microservices). I believe that Clean Code is the way to achieve clean and bulletproof solutions.
-
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [garifullin@gmail.com](mailto:garifullin@gmail.com)
 * 🚀  I'm currently working on [Smartbox](http://smartbox.com/fr)
