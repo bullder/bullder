@@ -6,7 +6,7 @@ Technical leader
 
 * 🌍  I'm based in Dublin
 * ✉️  You can contact me at [garifullin@gmail.com](mailto:garifullin@gmail.com)
-* 🚀  I'm currently working on [Smartbox](http://smartbox.com/fr)
+* 🚀  I'm currently working on [Bank Of Americe](http://bofa.com)
 * 🤝  I'm open to collaborating on challenging tasks
 
 ### Skills
